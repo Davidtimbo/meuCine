@@ -111,7 +111,7 @@
             case 5:
                 return 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjATXXtir8oodZNYKOzlm8BMS0l98m3q-gfg&usqp=CAU';
             case 6:
-                return 'https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2018/12/10/724410/20181210170839948248o.png';
+                return 'https://i0.wp.com/www.guiadecinema.com/wp-content/uploads/2022/03/morbius.jpg?fit=540%2C801&ssl=1';
             case 7:
                 return 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZMDYyrgxhsnsVhK0nzdR_O0LhWfR7sW-Wg&usqp=CAU';
             case 8:
@@ -159,7 +159,7 @@
     
     <div class="imagem-descricao">
         <a href="link-do-seu-destino">
-        <img src="https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2018/12/10/724410/20181210170839948248o.png" alt="sonicfilme" width="200" height="200">
+        <img src="https://i0.wp.com/www.guiadecinema.com/wp-content/uploads/2022/03/morbius.jpg?fit=540%2C801&ssl=1" alt="sonicfilme" width="200" height="200">
         <p class="descricao">Sonic O filme</p>
     </div>
 
